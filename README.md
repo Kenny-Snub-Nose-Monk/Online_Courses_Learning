@@ -35,3 +35,17 @@
 
 [訓練資料皆放於此](https://drive.google.com/drive/folders/1sK8VCeufflZNR-KY7px9_Cz0HZjUFHoQ)
 
+#### TF2.0 也是Don在Udemy上的課程，內容包刮如下:(2020/2)
+1.Tensorflow基礎操作
+2.Tensorflow核心Api
+3.數據集製作方法
+4.圖像數據與文本數據預處理實戰
+5.圖像識別模型構建
+6.文本分類模型構建
+7.神經網絡基礎
+8.卷積神經網絡原理
+9.遞歸神經網絡
+10.對抗生成網絡架構及其實戰
+11.CycleGan圖像融合
+12.基於Tensorflow構建各大經典網絡模型
+13.基於TF的開源項目實戰
