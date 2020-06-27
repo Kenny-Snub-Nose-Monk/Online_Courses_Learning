@@ -51,3 +51,19 @@
 13. 基於TF的開源項目實戰
 
 [部分資料檔案太大，請參考雲端資料夾](https://drive.google.com/drive/folders/1ikuNfBHtG52cAG1wPpsAKjU6BozVFWFY)
+
+#### Keras 練習:(2020/2)
+1. 掌握神經網絡構建方法
+2. 掌握卷積神經網絡構建方法
+3. 掌握遞歸神經網絡構建方法
+4. 掌握Keras框架實戰方法
+5. 熟練使用Keras建立神經網絡模型
+6. 熟練使用Keras進行圖像識別
+7. 熟練使用Keras進行時間序列分析
+8. 熟練使用Keras進行文本建模
+9. 熟練使用Keras進行檢測任務
+10. 掌握各大經典網絡模型架構
+11. 掌握不同網絡模型優點與應用領域
+12. 熟練基於Keras構建深度學習項目
+
+[部分資料檔案太大，請參考雲端資料夾](https://drive.google.com/drive/folders/1HE179V0Z2g9NZ_taMiiU3jdLoaL1-IOd)
